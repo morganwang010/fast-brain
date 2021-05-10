@@ -1,0 +1,31 @@
+{
+  "name": "fast-brain",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^1.2.1",
+    "assert": "^2.0.0",
+    "axios": "^0.21.1",
+    "crypto": "^1.0.1",
+    "events": "^3.3.0",
+    "fs": "*",
+    "http": "*",
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0",
+    "mongoose": "^5.12.5",
+    "net": "^1.0.2",
+    "path": "^0.12.7",
+    "stream": "^0.0.2",
+    "url": "^0.11.0",
+    "util": "^0.12.3",
+    "vant": "^3.0.14",
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
